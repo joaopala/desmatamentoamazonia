@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipio": "Altamira",
+        "estado": "PA",
+        "desmatamento_km2": 1900,
+        "periodo": "2013-2018",
+        "descricao": "Um dos munic\u00edpios com maior \u00e1rea desmatada da Amaz\u00f4nia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2,
+          -3.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipio": "S\u00e3o F\u00e9lix do Xingu",
+        "estado": "PA",
+        "desmatamento_km2": 1500,
+        "periodo": "2013-2018",
+        "descricao": "Forte expans\u00e3o da pecu\u00e1ria e press\u00e3o sobre a floresta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99,
+          -6.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipio": "Apu\u00ed",
+        "estado": "AM",
+        "desmatamento_km2": 900,
+        "periodo": "2015-2020",
+        "descricao": "\u00c1rea recente de avan\u00e7o do desmatamento no sul do Amazonas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.88,
+          -7.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipio": "L\u00e1brea",
+        "estado": "AM",
+        "desmatamento_km2": 850,
+        "periodo": "2015-2020",
+        "descricao": "Munic\u00edpio dentro do arco do desmatamento."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.79,
+          -7.25
+        ]
+      }
+    }
+  ]
+}
