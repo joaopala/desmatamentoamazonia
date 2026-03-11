@@ -1,5 +1,5 @@
 var config = {
-    style: 'style.json',
+    style: './style.json',
     // leave commented to use Mapbox Standard Style
     accessToken: 'YOUR_MAPBOX_ACCESS_TOKEN',
     showMarkers: true,
