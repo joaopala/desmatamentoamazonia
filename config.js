@@ -15,7 +15,7 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'El Arco del Desmatamiento en la Amazonía Brasileña',
+    title: 'El Arco de la Deforestación en la Amazonía Brasileña',
     subtitle: 'Storymap de las ciudades que concentran los mayores niveles de deforestación en el pulmon del mundo',
     byline: 'João Pala',
     footer: 'fuente: INPE, Ministerio del Medio Ambiente, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
